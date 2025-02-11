@@ -1,10 +1,9 @@
 @charset "UTF-8";
 
 body{
-    background-color: #c40000;
     margin: 0px;
     padding: 0px;
-    width: 99.2vw;
+    width: 99vw;
     box-sizing: border-box;
 }
 
@@ -40,7 +39,7 @@ main{
 }
 
 #filho-main{
-    height: 500px;
+    height: 90vh;
     width: 95%;
     max-width: 450px;
     background-color: #0000ff;
