@@ -3,9 +3,10 @@
 body{
     margin: 0px;
     padding: 0px;
-    width: 100dvw;
+    height: 100vh;
+    width: 100%;
     box-sizing: border-box;
-    height: 100dvh;
+    
 }
 
 
@@ -15,8 +16,8 @@ header > div > h1{
 }
 
 main{
-    height: 100dvh;
-    width: 100dvw;
+    height: 100vh;
+    width: 99vw;
     background-color: #474747;
 }
 
@@ -34,14 +35,15 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #4d4d4d;
+    background-color: #1f1f1f;
     border: 3px solid #dda534;
     
 }
 
 #filho-main{
-    height: 100dvh;
+    padding: 5px;
+    height: 85vh;
     width: 90dvw;
     max-width: 450px;
-    background-color: #04c79d;
+    background-color: #5e5e5e;
 }
