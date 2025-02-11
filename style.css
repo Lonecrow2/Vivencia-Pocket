@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body{
+    background-color: #c40000;
+    margin: 0px;
+    padding: 0px;
+    width: 98vw;
+    box-sizing: border-box;
+}
+
+
+header > div > h1{
+    margin: 0px;
+    line-height: 50px;
+}
+
+main{
+    height: 100vh;
+    width: 100%;
+    background-color: #474747;
+}
+
+#div-block{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+#div-block > img{
+    width: 150px;
+}
+
+#container-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #4d4d4d;
+    border: 3px solid #dda534;
+    
+}
+
+#filho-main{
+    height: 500px;
+    width: 95%;
+    max-width: 500px;
+    background-color: #0000ff;
+}
