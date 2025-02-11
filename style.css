@@ -41,9 +41,20 @@ main{
 }
 
 #filho-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     padding: 5px;
     height: 85vh;
     width: 90dvw;
     max-width: 450px;
     background-color: #5e5e5e;
+}
+
+#button{
+    align-self: center;
+    height: 60px;
+    width: 60px;
+    margin-bottom: 10px;
+    border-radius: 50%;
 }
