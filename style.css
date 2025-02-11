@@ -4,7 +4,7 @@ body{
     background-color: #c40000;
     margin: 0px;
     padding: 0px;
-    width: 98vw;
+    width: 99.2vw;
     box-sizing: border-box;
 }
 
@@ -34,7 +34,6 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     background-color: #4d4d4d;
     border: 3px solid #dda534;
     
@@ -43,6 +42,6 @@ main{
 #filho-main{
     height: 500px;
     width: 95%;
-    max-width: 500px;
+    max-width: 450px;
     background-color: #0000ff;
 }
