@@ -3,7 +3,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    width: 99%;
+    width: 100dvw;
     box-sizing: border-box;
     height: auto;
 }
@@ -40,8 +40,8 @@ main{
 }
 
 #filho-main{
-    height: 90vh;
-    width: 95%;
+    height: 100dvh;
+    width: 100dvw;
     max-width: 450px;
     background-color: #04c79d;
 }
