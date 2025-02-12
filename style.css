@@ -39,9 +39,6 @@ main {
 }
 
 #filho-main {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
     height: 70vh;
     width: 90%;
     overflow: scroll;
