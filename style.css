@@ -72,3 +72,39 @@ main {
     border: 6px solid #5a3e00;
     box-shadow: 2px 2px 5px 2px #0000007a;
 }
+
+#copyright-list {
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+    position: fixed;
+    padding: 33px;
+    top: 8%;
+    left: 0%;
+    width: 84%;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 10px;
+    font-weight: normal;
+    background-color: #e29700eb;
+    
+
+}
+
+#block-button-cc{
+    position: relative;
+}
+
+#copyright-button{
+    position: fixed;
+    top: 6%;
+    left: 18%;
+    background-color: #976500;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 0px black;
+    transform: translate(-50%, -50%);
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid #ffae00;
+}
