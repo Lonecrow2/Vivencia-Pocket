@@ -38,6 +38,8 @@ main {
     border: 3px solid #dda534;
 }
 
+/*Poesias*/
+
 #filho-main {
     height: 70vh;
     width: 90%;
@@ -59,7 +61,6 @@ main {
     padding: 10px;
     color: #ffd88a;
     text-shadow: 1px 1px 0px black;
-    
 }
 
 #button {
@@ -72,6 +73,8 @@ main {
     border: 6px solid #5a3e00;
     box-shadow: 2px 2px 5px 2px #0000007a;
 }
+
+/*Direitos autorais*/
 
 #copyright-list {
     font-family: Arial, Helvetica, sans-serif;
@@ -86,7 +89,6 @@ main {
     margin-top: 10px;
     font-weight: normal;
     background-color: #e29700;
-    
 
 }
 
