@@ -1,6 +1,6 @@
 function copyright() {
     var list = document.getElementById("copyright-list");
-    if (list.style.display === "none" || list.style.display === "") {
+    if (list.style.display === "none") {
         list.style.display = "block";
     } else {
         list.style.display = "none";
@@ -385,7 +385,7 @@ Apenas deixe queimar.
 #Lonecrow 31/05/2022
 `,
 
-`
+    `
 POESIA ?
 
 A dor no peito reflete a luz da minha inabilidade em 
@@ -1319,7 +1319,7 @@ estaremos maravilhados.
 #Lonecrow 26/12/2017
 `,
 
-`
+    `
 INSÔNIA PREVISTA
 
 Tantos murros mentais que se apresentam a frente,
@@ -1343,7 +1343,7 @@ Só espero que meu coração não pare antes disso acontecer!
 #Lonecrow 13/04/2018
 `,
 
-`
+    `
 O COPO
 
 Plena quarta feira e eu já estou dando minha alma ao diabo novamente,
@@ -1365,7 +1365,7 @@ Ou o copo se quebrara diante a um caus inimaginável!
 #Lonecrow 21/02/2018
 `,
 
-`
+    `
 ADORADA NOITE
 
 Olhares nada similares,
@@ -1384,7 +1384,7 @@ longe daquele que só quer te fazer sorrir...
 #Lonecrow 06/02/2018
 `,
 
-`
+    `
 LEVANTE
 
 Navega meu amigo,
@@ -1404,7 +1404,7 @@ Pois uma hora á de chegar a sua vitoria!
 #Lonecrow 06/02/2018
 `,
 
-`
+    `
 NUNCA É TARDE PARA DESISTIR
 
 Eu sei que com isso posso me sentir vivo,
@@ -1421,7 +1421,7 @@ Algumas paixões tem que morrer!
 #Lonecrow 05/02/2018
 `,
 
-`
+    `
 ESTRELAS
 
 Infinita distante,
@@ -1444,7 +1444,7 @@ E faremos os lobos uivarem com a nossa canção!
 #Lonecrow 19/01/2018
 `,
 
-`
+    `
 OLHOS NEGROS
 
 Em uma cidadezinha gritam seus nomes,
@@ -1464,7 +1464,7 @@ Menos os garotos estranhos da cidadezinha!
 #Lonecrow 05/01/2018
 `,
 
-`
+    `
 LUNA
 
 No frio de mais uma vida renascida,
@@ -1480,7 +1480,7 @@ E navegar diretamente à um futuro no qual sempre estaremos maravilhados.
 #Lonecrow 26/12/2017
 `,
 
-`
+    `
 DIZER?
 
 Como não ser um poeta em um mundo conturbado de acontecimentos,
@@ -1501,7 +1501,7 @@ Ficará sozinho!!!
 #Lonecrow 22/12/2017
 `,
 
-`
+    `
 ARREBATE O LIDER
 
 EI, VOCÊ,
@@ -1524,7 +1524,7 @@ Como alguém abaixa a cabeça para a própria mente é um paradoxo extremamente 
 #Lonecrow 01/12/2017
 `,
 
-`
+    `
 LOIRA
 
 Sua couraça é de metal,
@@ -1539,7 +1539,7 @@ E vomitarmos nossa maldita culpa para fora de nossas entranhas!
 #Lonecrow 11/10/2017
 `,
 
-`
+    `
 INGENUIDADE
 
 Sentei-me e ouvi,
@@ -1558,7 +1558,7 @@ Dementadores...
 #Lonecrow 10/10/2017
 `,
 
-`
+    `
 DESCREVER
 
 Não entendo por que de eu estar aqui,
@@ -1578,7 +1578,7 @@ Só agora entendo o por que precisamos do silencio e dos olhos fechados para dor
 #Lonecrow 19/09/2017
 `,
 
-`
+    `
 SIMPLICIDADE DO AMOR
 
 Não a superação perfeita,
@@ -1602,7 +1602,7 @@ Apenas nós humanos que procuramos dificultar coisas simples como o amor!
 
 
 
-`DE FATO NÃO ENTENDA
+    `DE FATO NÃO ENTENDA
 
 
 Não sei como não consigo sentir,
@@ -1627,7 +1627,7 @@ Apenas vamos querer.
 
 
 
-`ALIMENTO DE COBRA
+    `ALIMENTO DE COBRA
 
 
 Bandana desbotada,
@@ -1648,7 +1648,7 @@ Mas ninguém compreende o seu real significado!
 #Lonecrow 26/12/2017
 `,
 
-`
+    `
 NOITE AGRADÁVEL
 
 Sentado do lado de fora,
@@ -1669,7 +1669,7 @@ O vinho está acabando!
 #Lonecrow 04/03/2017
 `,
 
-`
+    `
 ARMADILHA DE INSATISFAÇÃO
 
 Vazio inconstante,
@@ -1688,7 +1688,7 @@ Parece um sonho no qual só há uma saída para enfim acordar!
 #Lonecrow 18/08/2017
 `,
 
-`
+    `
 QUEM EU SOU?
 
 Sentado no banco da escola,
@@ -1704,7 +1704,7 @@ Eu retire apenas oque á de bom.
 #Lonecrow 31/07/2017
 `,
 
-`
+    `
 UM TODO!
 
 Alguma coisa acontece quando você para no meio da noite para escrever,
@@ -1719,7 +1719,7 @@ Mais uma pessoa vivendo uma vida pateticamente normal...
 #Lonecrow 04/03/2017
 `,
 
-`
+    `
 NÃO Á CALOR
 
 Uma noite sem lembranças,
@@ -1739,7 +1739,7 @@ Oque em sua mente já está acabado.
 #Lonecrow 01/08/2017
 `,
 
-`
+    `
 DESCANSE
 
 Vamos aproveitar o desfecho entre os atos,
@@ -1761,7 +1761,7 @@ Durma querida, ninguém mais irá lhe incomodar!
 #Lonecrow 29/06/2017
 `,
 
-`
+    `
 PERDIÇÃO
 
 Sedento, mas com seus olhos mortos,
@@ -1782,7 +1782,7 @@ Mas só vocês podem me fazer viver.
 #Lonecrow 09/06/2017
 `,
 
-`
+    `
 ALMA AMARGA
 
 Lonecrow não é apenas um pseudônimo,
@@ -1804,7 +1804,7 @@ Sem motivos e sem um porque!
 #Lonecrow 27/05/2017
 `,
 
-`
+    `
 DESEJO
 
 Até os confeitos dos meus sonhos são negros,
@@ -1826,7 +1826,7 @@ Esse é o único que me faz viver!
 #Lonecrow 26/06/2017
 `,
 
-`
+    `
 ESCURIDÃO SOBRE RODAS
 
 Cavalgar e seguir,
@@ -1850,7 +1850,7 @@ E na estrada rodar.
 #Lonecrow 13/05/2017
 `,
 
-`
+    `
 PASSAROS CLONES
 
 A velocidade batendo no peito,
@@ -1880,7 +1880,7 @@ E que de minhas palavras ninguém esqueça.
 #Lonecrow 01/05/2017
 `,
 
-`
+    `
 AMANHECER SEM ASAS
 
 Sabe, esses dias andei desamparado,
@@ -1913,7 +1913,7 @@ Seu coração machucado parou de bater.
 #Lonecrow 30/04/2017
 `,
 
-`
+    `
 SOPRO
 
 Ultimamente pego-me pensando muito em apagar a chama da minha vela,
@@ -1930,7 +1930,7 @@ Que motivos terei para não dar o sopro e me apagar?
 #Lonecrow 29/04/2017
 `,
 
-`
+    `
 ALGUÉM
 
 Noite quase perfeita,
@@ -1947,7 +1947,7 @@ Lá estou perdido outra vez.
 #Lonecrow 15/04/2017
 `,
 
-`
+    `
 O SIMPLES PODER DE SORRIR
 
 Nem tudo no mundo se baseia na tristeza,
@@ -1966,7 +1966,7 @@ Mas é no sorriso de um inimigo, que nos apaixonamos!!!
 #Lonecrow 03/03/2017
 `,
 
-`
+    `
 PESO DA SOLIDÃO
 
 Sem voltar atrás,
