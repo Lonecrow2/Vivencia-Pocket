@@ -47,7 +47,7 @@ main {
     border-radius: 20px;
     padding: 10px;
     max-width: 450px;
-    background-image: url(imagens/corvo1tablet.jpg);
+    background-color: #303030;
 }
 
 #filho-main>div>p {
@@ -59,7 +59,7 @@ main {
     padding: 10px;
     color: #ffd88a;
     text-shadow: 1px 1px 0px black;
-    background-color: #000000b4;
+    
 }
 
 #button {
