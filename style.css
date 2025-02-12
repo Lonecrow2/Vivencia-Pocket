@@ -1,65 +1,59 @@
 @charset "UTF-8";
 
-body{
+body {
     margin: 0px;
     padding: 0px;
     height: 100vh;
     width: 100%;
     box-sizing: border-box;
-    
 }
 
 
-header > div > h1{
+header>div>h1 {
     margin: 0px;
     line-height: 50px;
 }
 
-main{
+main {
     height: 100vh;
     width: 99vw;
     background-color: #474747;
 }
 
-#div-block{
+#div-block {
     display: flex;
     justify-content: center;
     padding: 5px;
 }
 
-#div-block > img{
+#div-block>img {
     width: 150px;
 }
 
-#container-main{
+#container-main {
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #1f1f1f;
     border: 3px solid #dda534;
-    
 }
 
-#filho-main{
+#filho-main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     height: 70vh;
     width: 90%;
     overflow: scroll;
-    
     border: 4px solid #e29700;
-    
     box-shadow: inset 0px 0px 10px 5px black;
-    
     border-radius: 20px;
     padding: 10px;
-   
     max-width: 450px;
     background-image: url(imagens/corvo1tablet.jpg);
 }
 
-#filho-main > div > p{
+#filho-main>div>p {
     font-family: Arial, Helvetica, sans-serif;
     white-space: pre-line;
     height: 100%;
@@ -71,7 +65,7 @@ main{
     background-color: #000000b4;
 }
 
-#button{
+#button {
     align-self: center;
     background-color: #e29700;
     height: 70px;
@@ -81,4 +75,3 @@ main{
     border: 6px solid #5a3e00;
     box-shadow: 2px 2px 5px 2px #0000007a;
 }
-
