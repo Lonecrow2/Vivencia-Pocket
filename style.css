@@ -85,25 +85,25 @@ main {
     color: #000000;
     margin-top: 10px;
     font-weight: normal;
-    background-color: #e29700eb;
+    background-color: #e29700;
     
 
 }
 
 #block-button-cc{
-    position: relative;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
 }
 
 #copyright-button{
-    position: fixed;
-    top: 6%;
-    left: 18%;
+    margin-top: 6px;
+    padding: 4px;
     background-color: #976500;
     font-size: 14px;
     font-weight: bold;
     color: white;
     text-shadow: 1px 1px 0px black;
-    transform: translate(-50%, -50%);
     width: 80px;
     border-radius: 5px;
     border: 2px solid #ffae00;
