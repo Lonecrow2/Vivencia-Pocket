@@ -16,7 +16,6 @@ header>div>h1 {
 
 main {
     height: 100vh;
-    width: 99vw;
     background-color: #474747;
 }
 
@@ -41,9 +40,8 @@ main {
 /*Poesias*/
 
 #filho-main {
-    height: 70vh;
+    height: 65vh;
     width: 90%;
-    overflow: scroll;
     border: 4px solid #e29700;
     box-shadow: inset 0px 0px 10px 5px black;
     border-radius: 20px;
@@ -53,15 +51,40 @@ main {
 }
 
 #filho-main>div>p {
+    overflow-y: scroll;
     font-family: Arial, Helvetica, sans-serif;
     white-space: pre-line;
-    height: 90%;
+    max-height: 58vh;
     border-radius: 10px;
     text-align: justify;
     padding: 10px;
     color: #ffd88a;
     text-shadow: 1px 1px 0px black;
 }
+
+
+
+::-webkit-scrollbar {
+    height: 8px;
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000000;
+    border-radius: 6px;
+    border: 1px solid #dda534;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #f4b41a;
+    border-radius: 6px;
+    
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ffcf31;
+}
+
 
 #button {
     align-self: center;
